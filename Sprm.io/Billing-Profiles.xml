@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<profiles>
+
+  <profile>Nico 1</profile>
+
+  <name>Nico Epp</name>
+
+  <tel>017642522144</tel>
+
+  <street>Weilheimerstraße</street>
+
+  <num>32/2</num>
+
+  <city>Zell u.a.</city>
+
+  <zip>73119</zip>
+
+  <country>EU</country>
+
+  <payment>american_express</payment>
+
+</profiles>
